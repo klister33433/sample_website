@@ -1,3 +1,5 @@
 # Sample Website
 
-This is a sample website made as part of a tutorial.
+<p>
+This is a <em>sample</em> website made as part of a tutorial.
+</p>
